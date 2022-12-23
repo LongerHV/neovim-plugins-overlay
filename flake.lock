@@ -639,11 +639,11 @@
     "telescope-file-browser": {
       "flake": false,
       "locked": {
-        "lastModified": 1670179630,
-        "narHash": "sha256-w+dQgJQJ6lpkr0oA4cb/nJikS2GVe9vQL2rpXdshFDQ=",
+        "lastModified": 1671756854,
+        "narHash": "sha256-XTFEU/jucrfScd1CLxISK5ISuqg2338qQsXY/9f0nTc=",
         "owner": "nvim-telescope",
         "repo": "telescope-file-browser.nvim",
-        "rev": "cad567e11131a01f2934930c1efc8b1b09a0dc56",
+        "rev": "efd17359e5e224ac5f5f0e8b1629d8a66f1819e6",
         "type": "github"
       },
       "original": {
