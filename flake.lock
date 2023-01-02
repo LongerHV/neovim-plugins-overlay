@@ -257,11 +257,11 @@
     "null-ls": {
       "flake": false,
       "locked": {
-        "lastModified": 1672242938,
-        "narHash": "sha256-IsHNr40aOc8R0x4ba/93VyM+LeybYHGUKIkxiC7e8/4=",
+        "lastModified": 1672596564,
+        "narHash": "sha256-H06sT0c9PYDGFJGCYhCbQHAea9IvxdlgQumVJbCwcvM=",
         "owner": "jose-elias-alvarez",
         "repo": "null-ls.nvim",
-        "rev": "647a1eeeefc43ce15d941972642210637c370471",
+        "rev": "d09d7d82cc26d63673cef85cb62895dd68aab6d8",
         "type": "github"
       },
       "original": {
@@ -449,11 +449,11 @@
     "nvim-tree": {
       "flake": false,
       "locked": {
-        "lastModified": 1672522338,
-        "narHash": "sha256-Mqy84O5qkbjRPjqv7F00SWe7/KznwDZ/oOFMaTRu9UY=",
+        "lastModified": 1672605176,
+        "narHash": "sha256-GydrADcNKkQ5VXguCjv9d2FlmUQ4Taa6kUC+VQKqwYU=",
         "owner": "kyazdani42",
         "repo": "nvim-tree.lua",
-        "rev": "9d27c9ebea31d521a95c55ea9e47863ab19d36d7",
+        "rev": "951b6e7e55da8aee9566cc0b17c11f9451cec349",
         "type": "github"
       },
       "original": {
@@ -703,11 +703,11 @@
     "yaml-companion": {
       "flake": false,
       "locked": {
-        "lastModified": 1667727779,
-        "narHash": "sha256-9c+9oxrCNFMlAsRaamsimYbrYYXHpR4APljYMsjlrzY=",
+        "lastModified": 1672613468,
+        "narHash": "sha256-PULe7A3kTDNY8YCAl/mbGhT3Kn2owl5/PSJ3g4vlOS4=",
         "owner": "someone-stole-my-name",
         "repo": "yaml-companion.nvim",
-        "rev": "03f66e5e9c8b26a35b14593f24697f9a3bc64e48",
+        "rev": "da5ca6a1544c8839b044e9a6aafde1017e18b121",
         "type": "github"
       },
       "original": {
