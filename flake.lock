@@ -481,11 +481,11 @@
     "nvim-ts-rainbow": {
       "flake": false,
       "locked": {
-        "lastModified": 1667586234,
-        "narHash": "sha256-71/dbTPL3zB3oZaHTMvPWmcsr7cyctymzGnRG31H/6w=",
+        "lastModified": 1672675794,
+        "narHash": "sha256-4RQptdc3ktaj+Vw1Ykr6jD4q1JEsKNyBNUgUEdNDu1E=",
         "owner": "p00f",
         "repo": "nvim-ts-rainbow",
-        "rev": "064fd6c0a15fae7f876c2c6dd4524ca3fad96750",
+        "rev": "ef95c15a935f97c65a80e48e12fe72d49aacf9b9",
         "type": "github"
       },
       "original": {
