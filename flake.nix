@@ -211,7 +211,7 @@
     , telescope-file-browser
     , refactoring
     }: {
-      overlay = final: prev: {
+      overlays.default = final: prev: {
         nvimPlugins = {
           nvim-cmp = prev.pkgs.vimUtils.buildVimPluginFrom2Nix rec {
             pname = "nvim-cmp";
