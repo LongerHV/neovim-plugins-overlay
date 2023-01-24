@@ -25,7 +25,7 @@ Example usage with flakes and home-manager.
     in
     rec {
         overlays = {
-            neovimPlugins = neovim-plugins.overlay;
+            neovimPlugins = neovim-plugins.overlays.default;
         };
 
         legacyPackages = forAllSystems (system:
