@@ -1,0 +1,21 @@
+---
+name: Check if the plugins actually build
+
+"on":
+  push:
+  pull_request:
+    branches:
+      - master
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Install nix
+        uses: cachix/install-nix-action@v18
+      - name: Check out repository code
+        uses: actions/checkout@v3
+      - name: Build system with all plugins
+        run: |
+          nix build .#nixosConfigurations.test.config.system.build.toplevel

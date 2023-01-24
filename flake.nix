@@ -420,5 +420,21 @@
           };
         };
       };
+      nixosConfigurations.test = nixpkgs.lib.nixosSystem {
+        system = "x86_64-linux";
+        modules = [
+          ({ pkgs, ... }: {
+            boot.isContainer = true;
+            nixpkgs.overlays = [ self.overlays.default ];
+            system.stateVersion = "22.11";
+            programs.neovim = {
+              enable = true;
+              configure.packages.myVimPackage = {
+                opt = builtins.attrValues pkgs.nvimPlugins;
+              };
+            };
+          })
+        ];
+      };
     };
 }
