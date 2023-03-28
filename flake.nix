@@ -1,7 +1,6 @@
 {
   description = "Neovim plugin overlay";
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
     nvim-cmp = {
       url = "github:hrsh7th/nvim-cmp";
       flake = false;
@@ -72,10 +71,6 @@
     };
     nvim-web-devicons = {
       url = "github:kyazdani42/nvim-web-devicons";
-      flake = false;
-    };
-    nvim-treesitter = {
-      url = "github:nvim-treesitter/nvim-treesitter";
       flake = false;
     };
     nvim-treesitter-textobjects = {
@@ -192,7 +187,6 @@
     , yaml-companion
     , nvim-tree
     , nvim-web-devicons
-    , nvim-treesitter
     , nvim-treesitter-textobjects
     , nvim-ts-rainbow
     , nvim-dap
@@ -309,10 +303,6 @@
             version = src.lastModifiedDate;
             src = nvim-web-devicons;
           };
-          nvim-treesitter = prev.pkgs.vimPlugins.nvim-treesitter.overrideAttrs (_: rec {
-            version = src.lastModifiedDate;
-            src = nvim-treesitter;
-          });
           nvim-treesitter-textobjects = prev.pkgs.vimUtils.buildVimPluginFrom2Nix rec {
             pname = "nvim-treesitter-textobjects";
             version = src.lastModifiedDate;
