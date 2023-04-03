@@ -369,11 +369,11 @@
     "nvim-dap-python": {
       "flake": false,
       "locked": {
-        "lastModified": 1679675599,
-        "narHash": "sha256-NXhSynRUTB2CjTHdz0r+tTipMJemeVI9wMjLHcfWdXM=",
+        "lastModified": 1680413996,
+        "narHash": "sha256-KGQHxsC8xTtYUkMsMIFTZcqA2y5mbhoIRhwLp6yN+as=",
         "owner": "mfussenegger",
         "repo": "nvim-dap-python",
-        "rev": "af5e04c6eae97498258f84c61e1b22be6660763b",
+        "rev": "b21f707b39bbe0b530a61371ab5fc1786bd16c22",
         "type": "github"
       },
       "original": {
@@ -417,11 +417,11 @@
     "nvim-lspconfig": {
       "flake": false,
       "locked": {
-        "lastModified": 1680376121,
-        "narHash": "sha256-iEBGdENh3qXKHpRCqApG2JfJwXOsInivO0dUGton+I4=",
+        "lastModified": 1680398062,
+        "narHash": "sha256-gyVeSuuc7PiX2kDxbT2IzTvJ083qN7NbE+sVhH0keUc=",
         "owner": "neovim",
         "repo": "nvim-lspconfig",
-        "rev": "8cbfc30c4b238cc2465ff256803f7747376f046a",
+        "rev": "0bc0c38e1b11dfb6b5f1794d53869f89ccf9e78f",
         "type": "github"
       },
       "original": {
@@ -433,11 +433,11 @@
     "nvim-navic": {
       "flake": false,
       "locked": {
-        "lastModified": 1680112199,
-        "narHash": "sha256-/tedXbLjMYlCUMXmx81ZH7tpATJu5GPO5XPV6YZVSno=",
+        "lastModified": 1680405984,
+        "narHash": "sha256-1hUnU6CayNerK7olqhSkAQSW0zE6JIhsmZIBw2fyYnc=",
         "owner": "SmiteshP",
         "repo": "nvim-navic",
-        "rev": "5b37ffc213f37acb529eda2b319deee4c5b8c55b",
+        "rev": "27124a773d362628b114cd12016e743dab4ccf3e",
         "type": "github"
       },
       "original": {
