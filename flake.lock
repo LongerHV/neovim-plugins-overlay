@@ -433,11 +433,11 @@
     "nvim-navic": {
       "flake": false,
       "locked": {
-        "lastModified": 1681657486,
-        "narHash": "sha256-eB0+JwDmrnlkmjqiq0kYdazFMWQVfKJuMZvlX+lRhdk=",
+        "lastModified": 1681917505,
+        "narHash": "sha256-htkUkoXCDk8IwGrGTX7fsxIHuxPIHBKgSeOxWLB0EK0=",
         "owner": "SmiteshP",
         "repo": "nvim-navic",
-        "rev": "226c1c0c0bf67e103b609f18907c778acc9095c2",
+        "rev": "66de418892b30709c6a5e79075dd6f4d5689a8c0",
         "type": "github"
       },
       "original": {
