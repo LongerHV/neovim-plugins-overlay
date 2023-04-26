@@ -257,11 +257,11 @@
     "null-ls": {
       "flake": false,
       "locked": {
-        "lastModified": 1682218538,
-        "narHash": "sha256-V07V5uMhfMi2LlilTdTdd+cx2BWZUa5r9Pj1APCp3Fc=",
+        "lastModified": 1682437804,
+        "narHash": "sha256-wMkYD7jstH/AMe8xWKAo1of8KPNmC50agot3/TRHpvU=",
         "owner": "jose-elias-alvarez",
         "repo": "null-ls.nvim",
-        "rev": "920947793ce6e59616644cb4766d442121508bf3",
+        "rev": "63e1ab06f362c7fcd8a1b6f95665b55814190986",
         "type": "github"
       },
       "original": {
@@ -417,11 +417,11 @@
     "nvim-lspconfig": {
       "flake": false,
       "locked": {
-        "lastModified": 1682318507,
-        "narHash": "sha256-9O+6MM71gtmPyOE3U4/mf2DXGol8OyvOVucFs260jm8=",
+        "lastModified": 1682405354,
+        "narHash": "sha256-9lNEdg1NhJPn8KdllMi0lLGs2fr+a2SSnJY6OyPodno=",
         "owner": "neovim",
         "repo": "nvim-lspconfig",
-        "rev": "591d5038552c6cdf6cfc595bc351ccdbb8e62045",
+        "rev": "710c45bd13928c1f37ef0a714fd49b75f00d7d5e",
         "type": "github"
       },
       "original": {
@@ -561,11 +561,11 @@
     "refactoring": {
       "flake": false,
       "locked": {
-        "lastModified": 1680652692,
-        "narHash": "sha256-ivu41D5iQHKrdsI1kT9cUfFYJgiaUuQAdnZe7tbcBVw=",
+        "lastModified": 1682434441,
+        "narHash": "sha256-rtyelkcfvS+kv0dP5rUnk9k4k40roR4IYlcxQWr564o=",
         "owner": "ThePrimeagen",
         "repo": "refactoring.nvim",
-        "rev": "e7c40818b2995016ede93c5620055206b1aba44f",
+        "rev": "47a1716a9020c0093a1c8af36c3f9434dae62bbd",
         "type": "github"
       },
       "original": {
