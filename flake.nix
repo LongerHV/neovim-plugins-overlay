@@ -165,6 +165,14 @@
       url = "github:ThePrimeagen/refactoring.nvim";
       flake = false;
     };
+    copilot-lua = {
+      url = "github:zbirenbaum/copilot.lua";
+      flake = false;
+    };
+    copilot-cmp = {
+      url = "github:zbirenbaum/copilot-cmp";
+      flake = false;
+    };
   };
   outputs =
     { self
@@ -210,6 +218,8 @@
     , popup
     , telescope-file-browser
     , refactoring
+    , copilot-lua
+    , copilot-cmp
     }: {
       overlays.default = final: prev: {
         nvimPlugins = {
@@ -417,6 +427,16 @@
             pname = "refactoring";
             version = src.lastModifiedDate;
             src = refactoring;
+          };
+          copilot-lua = prev.pkgs.vimUtils.buildVimPluginFrom2Nix rec {
+            pname = "copilot-lua";
+            version = src.lastModifiedDate;
+            src = copilot-lua;
+          };
+          copilot-cmp = prev.pkgs.vimUtils.buildVimPluginFrom2Nix rec {
+            pname = "copilot-cmp";
+            version = src.lastModifiedDate;
+            src = copilot-cmp;
           };
         };
       };
