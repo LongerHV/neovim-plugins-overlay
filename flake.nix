@@ -126,7 +126,7 @@
       flake = false;
     };
     oceanic-next = {
-      url = "github:LongerHV/oceanic-next";
+      url = "github:mhartington/oceanic-next";
       flake = false;
     };
     indent-blankline = {
