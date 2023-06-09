@@ -179,11 +179,11 @@
     "friendly-snippets": {
       "flake": false,
       "locked": {
-        "lastModified": 1686088167,
-        "narHash": "sha256-en9OGFP4FjLV91K3G5soGTH8AWZqthPXrKj5/CtT0pM=",
+        "lastModified": 1686265547,
+        "narHash": "sha256-MFFuWd38LU6v4I1QsCwPXXe927zDR93VN2tiMhzM9NE=",
         "owner": "rafamadriz",
         "repo": "friendly-snippets",
-        "rev": "b471f5419155ce832eff71ad8920ea8cfbd54840",
+        "rev": "0eb246a7dbb06d3d9e560696be210241cc27c081",
         "type": "github"
       },
       "original": {
@@ -321,11 +321,11 @@
     "nvim-cmp": {
       "flake": false,
       "locked": {
-        "lastModified": 1685431555,
-        "narHash": "sha256-54CffrodPKKkZxgf389KCzqtnfQXwT8FztqenjdRuu4=",
+        "lastModified": 1686244027,
+        "narHash": "sha256-sULfoSrk6urotOHOsvHn3sfaa5vDBfH6aOH1QIgrMgI=",
         "owner": "hrsh7th",
         "repo": "nvim-cmp",
-        "rev": "fc0f694af1a742ada77e5b1c91ff405c746f4a26",
+        "rev": "b5a636d46c69bb371995c22d7a10ee1544004879",
         "type": "github"
       },
       "original": {
@@ -449,11 +449,11 @@
     "nvim-lspconfig": {
       "flake": false,
       "locked": {
-        "lastModified": 1686145269,
-        "narHash": "sha256-uULM+wf63NKBxLdbmkUBAfvgvnmvQ9DxmjuNBmdDwZ4=",
+        "lastModified": 1686213786,
+        "narHash": "sha256-V8TZ8md2EHBxkhZ77pvLCfuSC9R2xw/DpHsN1bUBzto=",
         "owner": "neovim",
         "repo": "nvim-lspconfig",
-        "rev": "1028360e0f2f724d93e876df3d22f63c1acd6ff9",
+        "rev": "0f598b9ab9f2a6d7e137074be99c8d89af44b990",
         "type": "github"
       },
       "original": {
@@ -497,11 +497,11 @@
     "nvim-treesitter-textobjects": {
       "flake": false,
       "locked": {
-        "lastModified": 1685683699,
-        "narHash": "sha256-SE9oKrGezJ5a3KsrIaHXJbQnaHX+NEgD2LKa9ABUXPY=",
+        "lastModified": 1686226357,
+        "narHash": "sha256-96XC/UGCxQYTCjomBHpB3uJ8SCFScxrRKVQJ0icEndY=",
         "owner": "nvim-treesitter",
         "repo": "nvim-treesitter-textobjects",
-        "rev": "23e883b99228f8d438254e5ef8c897e5e60e75d1",
+        "rev": "2d6d3c7e49a24f6ffbbf7898241fefe9784f61bd",
         "type": "github"
       },
       "original": {
@@ -657,11 +657,11 @@
     "telescope": {
       "flake": false,
       "locked": {
-        "lastModified": 1686182063,
-        "narHash": "sha256-gNzpcMFLwK/UCK/PAYwPAz7+QJq2d8IvQnEo1vBgQ3Q=",
+        "lastModified": 1686258626,
+        "narHash": "sha256-7UUn4pvaJs/mjGUuHFDI6YsY4d4KV2HWqa5vz65+zAs=",
         "owner": "nvim-telescope",
         "repo": "telescope.nvim",
-        "rev": "9a82b5b73eba8c8d71bacedd062d20fe6d3c791a",
+        "rev": "42267407ae588fd6c07238777d48869571193a49",
         "type": "github"
       },
       "original": {
