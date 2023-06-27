@@ -163,11 +163,11 @@
     "dressing": {
       "flake": false,
       "locked": {
-        "lastModified": 1687542201,
-        "narHash": "sha256-jOb0cThRIJK/SNMlOU93Fbz1lODQdkk+KSKI6SMfq1o=",
+        "lastModified": 1687797303,
+        "narHash": "sha256-ZBioRuUITIJnDACguFPZZDulY7OSzGxXL1s/1+qDHKA=",
         "owner": "stevearc",
         "repo": "dressing.nvim",
-        "rev": "1cbc4eef2ef7d745aa1a559b22589e33860cf077",
+        "rev": "e6eff7a5a950a853c3903d906dbcea03f778db5f",
         "type": "github"
       },
       "original": {
@@ -497,11 +497,11 @@
     "nvim-treesitter-textobjects": {
       "flake": false,
       "locked": {
-        "lastModified": 1687163064,
-        "narHash": "sha256-7snqJ61aNIEbWYwO4emeETS4jwA6zLgtbSWQqwgIAJ0=",
+        "lastModified": 1687795730,
+        "narHash": "sha256-UqderGoFad6tIny3pn38mB2XibA0dzxUVWNBYmsxAMw=",
         "owner": "nvim-treesitter",
         "repo": "nvim-treesitter-textobjects",
-        "rev": "83c59ed1eeae70a55605990993cf4d208948fdf7",
+        "rev": "52f1f3280d9092bfaee5c45be5962fabee3d9654",
         "type": "github"
       },
       "original": {
