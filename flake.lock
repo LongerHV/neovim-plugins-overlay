@@ -179,11 +179,11 @@
     "friendly-snippets": {
       "flake": false,
       "locked": {
-        "lastModified": 1689987777,
-        "narHash": "sha256-WNFpBrGB4vFuKRlF/6v/MwW17a7b1FFs2L/Cg6WWV4g=",
+        "lastModified": 1690173889,
+        "narHash": "sha256-9RCxASS46MRI6FAjdN0V2qFRymM8dK+25J5NrSX/TNA=",
         "owner": "rafamadriz",
         "repo": "friendly-snippets",
-        "rev": "4aed1a0ca605cb1c87f59799a0cc4afe00a40272",
+        "rev": "bc38057e513458cb2486b6cd82d365fa294ee398",
         "type": "github"
       },
       "original": {
@@ -497,11 +497,11 @@
     "nvim-treesitter-textobjects": {
       "flake": false,
       "locked": {
-        "lastModified": 1690140752,
-        "narHash": "sha256-Tcq2bungXCd7KjuXT4UhLBhlRCJ0AyAQIP+pSGE6L8s=",
+        "lastModified": 1690242633,
+        "narHash": "sha256-6TLtXRBYCianxn1j+WkcD7EpBYsGC4bTjYrcmaaXTas=",
         "owner": "nvim-treesitter",
         "repo": "nvim-treesitter-textobjects",
-        "rev": "ef32a5c24b767d165ed63fd2b24ac8dc52742521",
+        "rev": "9e519b6146512c8e2e702faf8ac48420f4f5deec",
         "type": "github"
       },
       "original": {
