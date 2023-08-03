@@ -3,11 +3,11 @@
     "Comment": {
       "flake": false,
       "locked": {
-        "lastModified": 1690919070,
-        "narHash": "sha256-RCgy0tsjad+BFw5G17tK4uZFBaOylORWAPQdVluPdmE=",
+        "lastModified": 1690979482,
+        "narHash": "sha256-6S5P2K5JzNj38rH5wz6O6G2P2w4Pt7CFg7/rdpsvCzc=",
         "owner": "numToStr",
         "repo": "Comment.nvim",
-        "rev": "bbbc8b4de73aa9933754528cd95507384f600ed6",
+        "rev": "d0cbbfb539898a275dc4398446ab0ae3b94819bf",
         "type": "github"
       },
       "original": {
@@ -274,11 +274,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1690893464,
-        "narHash": "sha256-YiFBn3K4l1AzVt8NeSg9ZJNvHxX2k+AkS74s/s4ASRA=",
+        "lastModified": 1690984057,
+        "narHash": "sha256-wpXaAfG3h1PkbVPw9cm34VEHwrp357crgzd8r6AYf74=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "e0e6b6909977de63dab514efbf5470bc31e7055e",
+        "rev": "bcd27e495e3fab072d5f1a781b67a40d2da17fd7",
         "type": "github"
       },
       "original": {
@@ -385,11 +385,11 @@
     "nvim-dap-go": {
       "flake": false,
       "locked": {
-        "lastModified": 1689685925,
-        "narHash": "sha256-SBxLArDO9U5Xm+iE5Sah9UU1zOggOGM2jPqqEPofceQ=",
+        "lastModified": 1690996530,
+        "narHash": "sha256-11VfJcS2QLuWWlxAcVDnc0Dg5qkULwt1HNnZ9QaJcCE=",
         "owner": "leoluz",
         "repo": "nvim-dap-go",
-        "rev": "eab43d63cef832801a701812913e4d1d726725e5",
+        "rev": "208f0e685b48a98bec2cdd8648559c4274b84ca2",
         "type": "github"
       },
       "original": {
