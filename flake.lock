@@ -163,11 +163,11 @@
     "dressing": {
       "flake": false,
       "locked": {
-        "lastModified": 1691914815,
-        "narHash": "sha256-tCzVIf+b5J1uUgdXfjQi9KiS1vOKNdtoCAnOeK/4sgE=",
+        "lastModified": 1692482735,
+        "narHash": "sha256-mOv+dwu/QJFl9+JQ5QYhq029uNHibRnRQOD787OOUHU=",
         "owner": "stevearc",
         "repo": "dressing.nvim",
-        "rev": "6bde51adabba06f7fd4a469885a85f36d78a5f52",
+        "rev": "ee571505f3566f84fd252e76c4ce6df6eaf2fb94",
         "type": "github"
       },
       "original": {
@@ -195,11 +195,11 @@
     "gitsigns": {
       "flake": false,
       "locked": {
-        "lastModified": 1692268827,
-        "narHash": "sha256-booKZ55xiQyzewKZygJG5rqXpmtFkl5mFPsqo/POoRM=",
+        "lastModified": 1692425623,
+        "narHash": "sha256-xMcR+5hN3SRXNewCfSGNXwaKxaHhzGWCBjb2n19MTPs=",
         "owner": "lewis6991",
         "repo": "gitsigns.nvim",
-        "rev": "5a2b1205841bc06ffb15719b14d54987e17b22ae",
+        "rev": "749267aaa863c30d721c9913699c5d94e0c07dd3",
         "type": "github"
       },
       "original": {
@@ -274,11 +274,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1692343221,
-        "narHash": "sha256-aCQE0eXmQ36ouEFfRf4gxGHELo/GFW2UzGj8DU7CtfU=",
+        "lastModified": 1692463654,
+        "narHash": "sha256-F8hZmsQINI+S6UROM4jyxAMbQLtzE44pI8Nk6NtMdao=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "babf56d5b24a91526a208cad1dde3d6ddbe4878c",
+        "rev": "ca3c9ac9f4cdd4bea19f592b32bb59b74ab7d783",
         "type": "github"
       },
       "original": {
