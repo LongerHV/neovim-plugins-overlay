@@ -657,11 +657,11 @@
     "telescope": {
       "flake": false,
       "locked": {
-        "lastModified": 1693014734,
-        "narHash": "sha256-L0EA0luXUXPiHHHQvArPLzlJu+l0tuwDNLDZAlgEyXQ=",
+        "lastModified": 1693196769,
+        "narHash": "sha256-iWzd6k3VNiSjK1FjDgYgy1Hc8yeR3pcM2LGiDnIbCRU=",
         "owner": "nvim-telescope",
         "repo": "telescope.nvim",
-        "rev": "207285ccec21b69996a4d3bcfa59df35d48610e8",
+        "rev": "1dfa66b845673effc8771f9ebe511bb36a09f560",
         "type": "github"
       },
       "original": {
