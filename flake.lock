@@ -19,11 +19,11 @@
     "LuaSnip": {
       "flake": false,
       "locked": {
-        "lastModified": 1692335130,
-        "narHash": "sha256-FEUgSEijCPdSTqfNTT25ITKu9CdLjUkOY31aNYzwghE=",
+        "lastModified": 1693503191,
+        "narHash": "sha256-d/P1PO/VUuIXNQx2QKDDQpeEvpL8Ut5TjolksD2Fb6o=",
         "owner": "L3MON4D3",
         "repo": "LuaSnip",
-        "rev": "c4d6298347f7707e9757351b2ee03d0c00da5c20",
+        "rev": "ea7d7ea510c641c4f15042becd27f35b3e5b3c2b",
         "type": "github"
       },
       "original": {
@@ -147,11 +147,11 @@
     "dashboard-nvim": {
       "flake": false,
       "locked": {
-        "lastModified": 1692870696,
-        "narHash": "sha256-JyEs44gC4+a7vM6MqOwxbwFvcpbNdouI54tymKzRviY=",
+        "lastModified": 1693465667,
+        "narHash": "sha256-pD4wNCl07cVlhztLvqmliY2AHTyJxamQxo8bbit6HKY=",
         "owner": "glepnir",
         "repo": "dashboard-nvim",
-        "rev": "9134d7befd50ff920ede5b0f7d6c3dbb9f7c0ecb",
+        "rev": "e3cf42fce88d5f5900029e03726be12289373611",
         "type": "github"
       },
       "original": {
@@ -195,11 +195,11 @@
     "gitsigns": {
       "flake": false,
       "locked": {
-        "lastModified": 1693388928,
-        "narHash": "sha256-c1Qq+V/umzAThrVbifs9Cs5kuPvysZ++UH2IbI48pYM=",
+        "lastModified": 1693470826,
+        "narHash": "sha256-4DVX9vd+PF02DonjAL+6q2xR7YCZG5vGD1/o4HbL4XI=",
         "owner": "lewis6991",
         "repo": "gitsigns.nvim",
-        "rev": "d8b52fc95e3d424e5c09b287ee2c293dcb4e26fb",
+        "rev": "44adf808ace6cb65a3353bd61fa585a2d8fe0db3",
         "type": "github"
       },
       "original": {
@@ -369,11 +369,11 @@
     "nvim-dap": {
       "flake": false,
       "locked": {
-        "lastModified": 1692861130,
-        "narHash": "sha256-Se3wQS6J2/WHw8pnv+4ZxDulu3/IRILGAbMx3ziAdFc=",
+        "lastModified": 1693474167,
+        "narHash": "sha256-i63RiaB1Io3C/EiI24Cxada9FoVF07WxaXtCA/W6puo=",
         "owner": "mfussenegger",
         "repo": "nvim-dap",
-        "rev": "4377a05b9476587b7b485d6a9d9745768c4e4b37",
+        "rev": "31e1ece773e10448dcb616d5144290946a6264b7",
         "type": "github"
       },
       "original": {
@@ -593,11 +593,11 @@
     "refactoring": {
       "flake": false,
       "locked": {
-        "lastModified": 1692818980,
-        "narHash": "sha256-U8eUIhcbPgfmZVL6wNMOq3Di/yXoyJIzzRyDMgrtjt0=",
+        "lastModified": 1693510193,
+        "narHash": "sha256-k4nHB0VznnlDDOZayy1T36pydRO5cDVWV0OtJPtnDA0=",
         "owner": "ThePrimeagen",
         "repo": "refactoring.nvim",
-        "rev": "2cfd6ddb0acece95d9658560ae9740b98ef70dbb",
+        "rev": "2ec9bc0fb5f3c8c6a0f776f0159dd2a3b1663554",
         "type": "github"
       },
       "original": {
