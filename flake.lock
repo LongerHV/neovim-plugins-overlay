@@ -131,11 +131,11 @@
     "copilot-lua": {
       "flake": false,
       "locked": {
-        "lastModified": 1692943138,
-        "narHash": "sha256-+xX1GiaqkrESPLBd9r2r/xkHW9Nj8ehS0DcT9D5kE9Q=",
+        "lastModified": 1693853391,
+        "narHash": "sha256-YTq8bcPXKHT96sm+Ov5MulDvWzlK8BI3ehu8q4XDmzc=",
         "owner": "zbirenbaum",
         "repo": "copilot.lua",
-        "rev": "0fa30d6846aae1af1c94a9ead93fa7dcf8affbe6",
+        "rev": "2c942f33ba5c621c906e625e00a1bb504b65e2f0",
         "type": "github"
       },
       "original": {
@@ -274,11 +274,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1693714546,
-        "narHash": "sha256-3EMJZeGSZT6pD1eNwI/6Yc0R4rxklNvJ2SDFcsCnjpM=",
+        "lastModified": 1693844670,
+        "narHash": "sha256-t69F2nBB8DNQUWHD809oJZJVE+23XBrth4QZuVd6IE0=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "d816b5ab44187a2dd84806630ce77a733724f95f",
+        "rev": "3c15feef7770eb5500a4b8792623e2d6f598c9c1",
         "type": "github"
       },
       "original": {
@@ -657,11 +657,11 @@
     "telescope": {
       "flake": false,
       "locked": {
-        "lastModified": 1693779737,
-        "narHash": "sha256-9znMFEr00vxwc1MqD3dXhVemny7+AT9/5oYLkc4qmZY=",
+        "lastModified": 1693850759,
+        "narHash": "sha256-309GezR93SVOD7/B8dDJIEidYziepc1s46CIRkhND1k=",
         "owner": "nvim-telescope",
         "repo": "telescope.nvim",
-        "rev": "6b79d7a6a45adc1508a7afee5bc973173ec22f59",
+        "rev": "20a37e43bb43c74c6091f9fea6551af0964ad45a",
         "type": "github"
       },
       "original": {
