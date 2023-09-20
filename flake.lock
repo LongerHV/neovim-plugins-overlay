@@ -19,11 +19,11 @@
     "LuaSnip": {
       "flake": false,
       "locked": {
-        "lastModified": 1694977749,
-        "narHash": "sha256-ghi9zdP8/8SYtm/zVlE5E+hdNmC+rBzLJnRGPzn78vA=",
+        "lastModified": 1695136655,
+        "narHash": "sha256-EgptDTDRRmjEjeP427tkNwVvyddACMaUg8cxPlKhFHk=",
         "owner": "L3MON4D3",
         "repo": "LuaSnip",
-        "rev": "3657c3f3cb2214a681fc7e95b6ffb509d076ebfb",
+        "rev": "8efa4e402a24df6a4713a2ec653147c49e8f73de",
         "type": "github"
       },
       "original": {
@@ -305,11 +305,11 @@
     "nvim-autopairs": {
       "flake": false,
       "locked": {
-        "lastModified": 1694135355,
-        "narHash": "sha256-N/Z+JfhJ5N8zwshpxm8bKFDbBRRQKZ9zAI+Q6mPOMBY=",
+        "lastModified": 1695094645,
+        "narHash": "sha256-I+/DWPXHxKVyEi1PUhh4CBtSjaljVHip+p0wT2zIidY=",
         "owner": "windwp",
         "repo": "nvim-autopairs",
-        "rev": "defad64afbf19381fe31488a7582bbac421d6e38",
+        "rev": "7b3eb9b5813a22188c4dbb248475fcbaf9f4d195",
         "type": "github"
       },
       "original": {
@@ -657,11 +657,11 @@
     "telescope": {
       "flake": false,
       "locked": {
-        "lastModified": 1694835600,
-        "narHash": "sha256-TV5SFQloDRkG5yk8Hk/+gdCbkJtnqljWLcamO131Ekw=",
+        "lastModified": 1695167748,
+        "narHash": "sha256-/SVOhG05LLAl7kYwtf7I2kcBmpWud3DmAVJESp+13SI=",
         "owner": "nvim-telescope",
         "repo": "telescope.nvim",
-        "rev": "b543aaa2c9cf8123ed2fe7dbb6c211a9cd415124",
+        "rev": "40c8d2fc2b729dd442eda093cf8c9496d6e23732",
         "type": "github"
       },
       "original": {
