@@ -67,9 +67,8 @@ Example usage with flakes and home-manager.
         enable = true;
         plugins = with pkgs.nvimPlugins; [
             nvim-lspconfig
-            nvim-cmp
-            gitsigns
-            lualine
+            telescope
+            mini
         ];
     };
 }
