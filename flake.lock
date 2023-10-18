@@ -3,11 +3,11 @@
     "indent-blankline": {
       "flake": false,
       "locked": {
-        "lastModified": 1697424115,
-        "narHash": "sha256-MbOIUWiNvRjzYTUghmxgPrkJLV1EZ0jhBQW+bbPHEPY=",
+        "lastModified": 1697516559,
+        "narHash": "sha256-oif/14yBGleDkeq8aZRwMdrZrGXKEHCjtYu2f3ieR9Q=",
         "owner": "lukas-reineke",
         "repo": "indent-blankline.nvim",
-        "rev": "0ac5dfe835ec0f201ef6af17d4737d43b4bfce0d",
+        "rev": "9301e434dd41154ffe5c3d5b8a5c9acd075ebeff",
         "type": "github"
       },
       "original": {
@@ -19,11 +19,11 @@
     "mini": {
       "flake": false,
       "locked": {
-        "lastModified": 1697471915,
-        "narHash": "sha256-eHF4SyVJsZde6s3EcelIqrBwdQaQKdARTlGS4yT9bb8=",
+        "lastModified": 1697564346,
+        "narHash": "sha256-SStRF7Aq3sqKt98qZf+7GvEd3KKuldXBXUGDhLFMlqk=",
         "owner": "echasnovski",
         "repo": "mini.nvim",
-        "rev": "22f3f4396b4ec90c4c83b69f47e14d71b4c6c69f",
+        "rev": "cff8f2bddbbc1093a9ffbf1122df918be5ff41d9",
         "type": "github"
       },
       "original": {
