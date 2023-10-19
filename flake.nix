@@ -9,10 +9,6 @@
       url = "github:nvim-lua/plenary.nvim";
       flake = false;
     };
-    nvim-ts-rainbow = {
-      url = "github:p00f/nvim-ts-rainbow";
-      flake = false;
-    };
     oceanic-next = {
       url = "github:mhartington/oceanic-next";
       flake = false;
@@ -33,18 +29,22 @@
       url = "github:lukas-reineke/indent-blankline.nvim";
       flake = false;
     };
+    devicons = {
+      url = "github:nvim-tree/nvim-web-devicons";
+      flake = false;
+    };
   };
   outputs =
     { self
     , nixpkgs
     , nvim-lspconfig
     , plenary
-    , nvim-ts-rainbow
     , oceanic-next
     , telescope
     , telescope-file-browser
     , mini
     , indent-blankline
+    , devicons
     }:
     let
       inherit (self) outputs;
@@ -64,11 +64,6 @@
             pname = "plenary";
             version = src.lastModifiedDate;
             src = plenary;
-          };
-          nvim-ts-rainbow = prev.pkgs.vimUtils.buildVimPluginFrom2Nix rec {
-            pname = "nvim-ts-rainbow";
-            version = src.lastModifiedDate;
-            src = nvim-ts-rainbow;
           };
           oceanic-next = prev.pkgs.vimUtils.buildVimPluginFrom2Nix rec {
             pname = "oceanic-next";
@@ -94,6 +89,11 @@
             pname = "indent-blankline";
             version = src.lastModifiedDate;
             src = indent-blankline;
+          };
+          devicons = prev.pkgs.vimUtils.buildVimPluginFrom2Nix rec {
+            pname = "devicons";
+            version = src.lastModifiedDate;
+            src = devicons;
           };
         };
       };
