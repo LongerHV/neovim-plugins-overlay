@@ -33,6 +33,10 @@
       url = "github:nvim-tree/nvim-web-devicons";
       flake = false;
     };
+    gitsigns = {
+      url = "github:lewis6991/gitsigns.nvim";
+      flake = false;
+    };
   };
   outputs =
     { self
@@ -45,9 +49,9 @@
     , mini
     , indent-blankline
     , devicons
+    , gitsigns
     }:
     let
-      inherit (self) outputs;
       forAllSystems = nixpkgs.lib.genAttrs [ "aarch64-linux" "x86_64-linux" ];
     in
 
@@ -94,6 +98,11 @@
             pname = "devicons";
             version = src.lastModifiedDate;
             src = devicons;
+          };
+          gitsigns = prev.pkgs.vimUtils.buildVimPluginFrom2Nix rec {
+            pname = "gitsigns";
+            version = src.lastModifiedDate;
+            src = gitsigns;
           };
         };
       };
