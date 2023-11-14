@@ -3,11 +3,11 @@
     "devicons": {
       "flake": false,
       "locked": {
-        "lastModified": 1699743308,
-        "narHash": "sha256-N3NrAF1Gs2MzYaAg7M9qi8B8nRwDzSHmD3CxSI7EfJM=",
+        "lastModified": 1699908303,
+        "narHash": "sha256-0DdA5JO9CxE/YZkor2vcg7gbwW9N05nAalu/zgPTUHc=",
         "owner": "nvim-tree",
         "repo": "nvim-web-devicons",
-        "rev": "3fafeea5f339223e888fd15eb4032260849cb038",
+        "rev": "11eb26fc166742db8d1e8a6f5a7de9df37b09aae",
         "type": "github"
       },
       "original": {
