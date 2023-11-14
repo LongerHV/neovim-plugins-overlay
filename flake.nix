@@ -37,6 +37,10 @@
       url = "github:lewis6991/gitsigns.nvim";
       flake = false;
     };
+    dressing = {
+      url = "github:stevearc/dressing.nvim";
+      flake = false;
+    };
   };
   outputs =
     { self
@@ -50,6 +54,7 @@
     , indent-blankline
     , devicons
     , gitsigns
+    , dressing
     }:
     let
       forAllSystems = nixpkgs.lib.genAttrs [ "aarch64-linux" "x86_64-linux" ];
@@ -103,6 +108,11 @@
             pname = "gitsigns";
             version = src.lastModifiedDate;
             src = gitsigns;
+          };
+          dressing = prev.pkgs.vimUtils.buildVimPluginFrom2Nix rec {
+            pname = "dressing";
+            version = src.lastModifiedDate;
+            src = dressing;
           };
         };
       };

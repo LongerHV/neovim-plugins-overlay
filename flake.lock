@@ -16,6 +16,22 @@
         "type": "github"
       }
     },
+    "dressing": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1699335485,
+        "narHash": "sha256-htUCShHjjwJU26/POs2GHDoUFFxczCXd87Ao//as5ig=",
+        "owner": "stevearc",
+        "repo": "dressing.nvim",
+        "rev": "fe3071330a0720ce3695ac915820c8134b22d1b0",
+        "type": "github"
+      },
+      "original": {
+        "owner": "stevearc",
+        "repo": "dressing.nvim",
+        "type": "github"
+      }
+    },
     "gitsigns": {
       "flake": false,
       "locked": {
@@ -129,6 +145,7 @@
     "root": {
       "inputs": {
         "devicons": "devicons",
+        "dressing": "dressing",
         "gitsigns": "gitsigns",
         "indent-blankline": "indent-blankline",
         "mini": "mini",
