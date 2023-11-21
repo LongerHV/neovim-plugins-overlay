@@ -41,6 +41,10 @@
       url = "github:stevearc/dressing.nvim";
       flake = false;
     };
+    gen = {
+      url = "github:David-Kunz/gen.nvim";
+      flake = false;
+    };
   };
   outputs =
     { self
@@ -55,6 +59,7 @@
     , devicons
     , gitsigns
     , dressing
+    , gen
     }:
     let
       forAllSystems = nixpkgs.lib.genAttrs [ "aarch64-linux" "x86_64-linux" ];
@@ -113,6 +118,11 @@
             pname = "dressing";
             version = src.lastModifiedDate;
             src = dressing;
+          };
+          gen = prev.pkgs.vimUtils.buildVimPluginFrom2Nix rec {
+            pname = "gen";
+            version = src.lastModifiedDate;
+            src = gen;
           };
         };
       };
