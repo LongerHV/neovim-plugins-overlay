@@ -51,11 +51,11 @@
     "gitsigns": {
       "flake": false,
       "locked": {
-        "lastModified": 1701259661,
-        "narHash": "sha256-cVs6thVq70ggQTvK/wEi377OgXqoaX3ulnyr+z6s0iA=",
+        "lastModified": 1701947745,
+        "narHash": "sha256-U0PbdVOvChyc3H3azzQcLGjfPX+gzs+C952lpEKvWOU=",
         "owner": "lewis6991",
         "repo": "gitsigns.nvim",
-        "rev": "6ef8c54fb526bf3a0bc4efb0b2fe8e6d9a7daed2",
+        "rev": "e93a158b8773946dc9940a4321d35c1b52c8e293",
         "type": "github"
       },
       "original": {
@@ -83,11 +83,11 @@
     "mini": {
       "flake": false,
       "locked": {
-        "lastModified": 1701454471,
-        "narHash": "sha256-JSlFL2XmeFVedv8TH3C3OyA/i3wJJizuwql6LQZpRKQ=",
+        "lastModified": 1701968584,
+        "narHash": "sha256-zwgRPJ3Q8GpbY2sm535MuXkJxW5WhuX1hwzLKwuA2J4=",
         "owner": "echasnovski",
         "repo": "mini.nvim",
-        "rev": "6d1cbcaec421b3768088b4047e78ce22e5503b99",
+        "rev": "6b84d4f83597260fd18a0af1939317e0e424ac39",
         "type": "github"
       },
       "original": {
@@ -193,11 +193,11 @@
     "telescope-file-browser": {
       "flake": false,
       "locked": {
-        "lastModified": 1701565860,
-        "narHash": "sha256-hlfDV4c6+E49stORkTNUfdVfBxkN1d8ZvGhCVXX7do0=",
+        "lastModified": 1701916554,
+        "narHash": "sha256-Ifz0uoHWinAAEJf4OjuIqF9VV1Ji1FIK4V1qUICw7+Y=",
         "owner": "nvim-telescope",
         "repo": "telescope-file-browser.nvim",
-        "rev": "98101b22402cd6d1c7e9a7e0c4718bfc98cb1625",
+        "rev": "8e0543365fe5781c9babea7db89ef06bcff3716d",
         "type": "github"
       },
       "original": {
