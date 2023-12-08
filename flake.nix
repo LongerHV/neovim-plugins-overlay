@@ -69,57 +69,57 @@
       formatter = forAllSystems (system: nixpkgs.legacyPackages."${system}".nixpkgs-fmt);
       overlays.default = final: prev: {
         nvimPlugins = {
-          nvim-lspconfig = prev.pkgs.vimUtils.buildVimPluginFrom2Nix rec {
+          nvim-lspconfig = prev.pkgs.vimUtils.buildVimPlugin rec {
             pname = "nvim-lspconifg";
             version = src.lastModifiedDate;
             src = nvim-lspconfig;
           };
-          plenary = prev.pkgs.vimUtils.buildVimPluginFrom2Nix rec {
+          plenary = prev.pkgs.vimUtils.buildVimPlugin rec {
             pname = "plenary";
             version = src.lastModifiedDate;
             src = plenary;
           };
-          oceanic-next = prev.pkgs.vimUtils.buildVimPluginFrom2Nix rec {
+          oceanic-next = prev.pkgs.vimUtils.buildVimPlugin rec {
             pname = "oceanic-next";
             version = src.lastModifiedDate;
             src = oceanic-next;
           };
-          telescope = prev.pkgs.vimUtils.buildVimPluginFrom2Nix rec {
+          telescope = prev.pkgs.vimUtils.buildVimPlugin rec {
             pname = "telescope";
             version = src.lastModifiedDate;
             src = telescope;
           };
-          telescope-file-browser = prev.pkgs.vimUtils.buildVimPluginFrom2Nix rec {
+          telescope-file-browser = prev.pkgs.vimUtils.buildVimPlugin rec {
             pname = "telescope-file-browser";
             version = src.lastModifiedDate;
             src = telescope-file-browser;
           };
-          mini = prev.pkgs.vimUtils.buildVimPluginFrom2Nix rec {
+          mini = prev.pkgs.vimUtils.buildVimPlugin rec {
             pname = "mini";
             version = src.lastModifiedDate;
             src = mini;
           };
-          indent-blankline = prev.pkgs.vimUtils.buildVimPluginFrom2Nix rec {
+          indent-blankline = prev.pkgs.vimUtils.buildVimPlugin rec {
             pname = "indent-blankline";
             version = src.lastModifiedDate;
             src = indent-blankline;
           };
-          devicons = prev.pkgs.vimUtils.buildVimPluginFrom2Nix rec {
+          devicons = prev.pkgs.vimUtils.buildVimPlugin rec {
             pname = "devicons";
             version = src.lastModifiedDate;
             src = devicons;
           };
-          gitsigns = prev.pkgs.vimUtils.buildVimPluginFrom2Nix rec {
+          gitsigns = prev.pkgs.vimUtils.buildVimPlugin rec {
             pname = "gitsigns";
             version = src.lastModifiedDate;
             src = gitsigns;
           };
-          dressing = prev.pkgs.vimUtils.buildVimPluginFrom2Nix rec {
+          dressing = prev.pkgs.vimUtils.buildVimPlugin rec {
             pname = "dressing";
             version = src.lastModifiedDate;
             src = dressing;
           };
-          gen = prev.pkgs.vimUtils.buildVimPluginFrom2Nix rec {
+          gen = prev.pkgs.vimUtils.buildVimPlugin rec {
             pname = "gen";
             version = src.lastModifiedDate;
             src = gen;
