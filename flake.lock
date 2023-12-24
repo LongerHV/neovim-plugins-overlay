@@ -3,11 +3,11 @@
     "devicons": {
       "flake": false,
       "locked": {
-        "lastModified": 1703166652,
-        "narHash": "sha256-bkD4fxHS8Ti+1Vz/o0qbiFqnEfb05Bqo2cCIdpsoK2E=",
+        "lastModified": 1703296510,
+        "narHash": "sha256-oxyZ55EnINvTw8GZieleM5no9AZbceZbC0Pr7RQ0Bxg=",
         "owner": "nvim-tree",
         "repo": "nvim-web-devicons",
-        "rev": "aff5f50b34754335a312c9b3dc5b245f605ce437",
+        "rev": "78d41a9930532f9bba3ea075907aa92892b9a3eb",
         "type": "github"
       },
       "original": {
@@ -67,11 +67,11 @@
     "indent-blankline": {
       "flake": false,
       "locked": {
-        "lastModified": 1703209316,
-        "narHash": "sha256-aD7JPV/fcwEVErFoATRYPcUswiTp20I2OjRWYiq/SoA=",
+        "lastModified": 1703379299,
+        "narHash": "sha256-uXycxfTs+rzYqxU8tEkZP0iGcc14Ss3c35HVf2/x0d4=",
         "owner": "lukas-reineke",
         "repo": "indent-blankline.nvim",
-        "rev": "3084950d1b66426d207064a509477cbfa96362c6",
+        "rev": "0dca9284bce128e60da18693d92999968d6cb523",
         "type": "github"
       },
       "original": {
