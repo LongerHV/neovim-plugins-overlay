@@ -48,6 +48,22 @@
         "type": "github"
       }
     },
+    "fine-cmdline": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1700512774,
+        "narHash": "sha256-w9wwjClkOWk3wCgEiZIFLZRJ/gAfX38x2LnVRaelKD8=",
+        "owner": "VonHeikemen",
+        "repo": "fine-cmdline.nvim",
+        "rev": "dd676584145d62b30d7e8dbdd011796a8f0a065f",
+        "type": "github"
+      },
+      "original": {
+        "owner": "VonHeikemen",
+        "repo": "fine-cmdline.nvim",
+        "type": "github"
+      }
+    },
     "gen": {
       "flake": false,
       "locked": {
@@ -126,6 +142,22 @@
         "type": "indirect"
       }
     },
+    "nui": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1704411133,
+        "narHash": "sha256-SWG0IQDNXrgWK1ApQSpc2oPKNYgTPend877DQ6FuqUc=",
+        "owner": "MunifTanjim",
+        "repo": "nui.nvim",
+        "rev": "35da9ca1de0fc4dda96c2e214d93d363c145f418",
+        "type": "github"
+      },
+      "original": {
+        "owner": "MunifTanjim",
+        "repo": "nui.nvim",
+        "type": "github"
+      }
+    },
     "nvim-lspconfig": {
       "flake": false,
       "locked": {
@@ -179,11 +211,13 @@
         "devicons": "devicons",
         "dressing": "dressing",
         "fidget": "fidget",
+        "fine-cmdline": "fine-cmdline",
         "gen": "gen",
         "gitsigns": "gitsigns",
         "indent-blankline": "indent-blankline",
         "mini": "mini",
         "nixpkgs": "nixpkgs",
+        "nui": "nui",
         "nvim-lspconfig": "nvim-lspconfig",
         "oceanic-next": "oceanic-next",
         "plenary": "plenary",

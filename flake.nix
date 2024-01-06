@@ -49,6 +49,14 @@
       url = "github:j-hui/fidget.nvim";
       flake = false;
     };
+    fine-cmdline = {
+      url = "github:VonHeikemen/fine-cmdline.nvim";
+      flake = false;
+    };
+    nui = {
+      url = "github:MunifTanjim/nui.nvim";
+      flake = false;
+    };
   };
   outputs = { self, nixpkgs, ... }@inputs:
     let
