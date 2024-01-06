@@ -32,6 +32,22 @@
         "type": "github"
       }
     },
+    "fidget": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1703722406,
+        "narHash": "sha256-9BHEWFyFr9q0Iqw08TOXsFQgYyNBzHgK9Fqt1PqubUM=",
+        "owner": "j-hui",
+        "repo": "fidget.nvim",
+        "rev": "a4a7edfea37e557dbff5509ee374ffb57051bba9",
+        "type": "github"
+      },
+      "original": {
+        "owner": "j-hui",
+        "repo": "fidget.nvim",
+        "type": "github"
+      }
+    },
     "gen": {
       "flake": false,
       "locked": {
@@ -162,6 +178,7 @@
       "inputs": {
         "devicons": "devicons",
         "dressing": "dressing",
+        "fidget": "fidget",
         "gen": "gen",
         "gitsigns": "gitsigns",
         "indent-blankline": "indent-blankline",

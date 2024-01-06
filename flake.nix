@@ -45,6 +45,10 @@
       url = "github:David-Kunz/gen.nvim";
       flake = false;
     };
+    fidget = {
+      url = "github:j-hui/fidget.nvim";
+      flake = false;
+    };
   };
   outputs =
     { self
@@ -60,6 +64,7 @@
     , gitsigns
     , dressing
     , gen
+    , fidget
     }:
     let
       forAllSystems = nixpkgs.lib.genAttrs [ "aarch64-linux" "x86_64-linux" ];
@@ -123,6 +128,11 @@
             pname = "gen";
             version = src.lastModifiedDate;
             src = gen;
+          };
+          fidget = prev.pkgs.vimUtils.buildVimPlugin rec {
+            pname = "fidget";
+            version = src.lastModifiedDate;
+            src = fidget;
           };
         };
       };
