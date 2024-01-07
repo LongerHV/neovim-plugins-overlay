@@ -204,8 +204,25 @@
         "oceanic-next": "oceanic-next",
         "oil": "oil",
         "plenary": "plenary",
+        "schemastore": "schemastore",
         "telescope": "telescope",
         "telescope-file-browser": "telescope-file-browser"
+      }
+    },
+    "schemastore": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1704477646,
+        "narHash": "sha256-O9+mhoRieGPFAeRu/j0R2u9u15UpWGxJxx1KtW/VKGY=",
+        "owner": "b0o",
+        "repo": "SchemaStore.nvim",
+        "rev": "7ccffe69a8c24fcd8637788955e13d7fd8aa2f46",
+        "type": "github"
+      },
+      "original": {
+        "owner": "b0o",
+        "repo": "SchemaStore.nvim",
+        "type": "github"
       }
     },
     "telescope": {

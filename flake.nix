@@ -53,6 +53,10 @@
       url = "github:stevearc/oil.nvim";
       flake = false;
     };
+    schemastore = {
+      url = "github:b0o/SchemaStore.nvim";
+      flake = false;
+    };
   };
   outputs = { self, nixpkgs, ... }@inputs:
     let
