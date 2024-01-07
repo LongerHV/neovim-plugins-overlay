@@ -49,6 +49,10 @@
       url = "github:j-hui/fidget.nvim";
       flake = false;
     };
+    oil = {
+      url = "github:stevearc/oil.nvim";
+      flake = false;
+    };
   };
   outputs = { self, nixpkgs, ... }@inputs:
     let

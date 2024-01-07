@@ -158,6 +158,22 @@
         "type": "github"
       }
     },
+    "oil": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1704262044,
+        "narHash": "sha256-Wmw66iME4tX9eXrqbz9lnWDQq2L3T1Dcvjz1SYg5NWk=",
+        "owner": "stevearc",
+        "repo": "oil.nvim",
+        "rev": "a128e6f75c6a71b7b9ac7ea663949a5209771cd5",
+        "type": "github"
+      },
+      "original": {
+        "owner": "stevearc",
+        "repo": "oil.nvim",
+        "type": "github"
+      }
+    },
     "plenary": {
       "flake": false,
       "locked": {
@@ -186,6 +202,7 @@
         "nixpkgs": "nixpkgs",
         "nvim-lspconfig": "nvim-lspconfig",
         "oceanic-next": "oceanic-next",
+        "oil": "oil",
         "plenary": "plenary",
         "telescope": "telescope",
         "telescope-file-browser": "telescope-file-browser"
