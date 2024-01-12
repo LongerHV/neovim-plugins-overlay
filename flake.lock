@@ -212,11 +212,11 @@
     "schemastore": {
       "flake": false,
       "locked": {
-        "lastModified": 1704823244,
-        "narHash": "sha256-+EfH4+r6DR65c8kGuKgbgHas+9Lp0tQ8DwsHpV5y1FQ=",
+        "lastModified": 1704996058,
+        "narHash": "sha256-yUwvp5HX2vKZCPvR9WQipY9hWcxX6ObSxtyuT208V1c=",
         "owner": "b0o",
         "repo": "SchemaStore.nvim",
-        "rev": "fcb1522fefd0f9029b7dc71aa2664d2d0ead0fb3",
+        "rev": "aa03f815694c003892bb80efcf4d7c33aea3e009",
         "type": "github"
       },
       "original": {
@@ -228,11 +228,11 @@
     "telescope": {
       "flake": false,
       "locked": {
-        "lastModified": 1704791664,
-        "narHash": "sha256-gqIxyI3U0g4mX7FhL/IBj+DRHS7cRq9NLsZpEV3i/rQ=",
+        "lastModified": 1704938549,
+        "narHash": "sha256-S/q42tvFtUE6wnY/YmDFNtzLJGhevg7gfRiQ1QHYzb4=",
         "owner": "nvim-telescope",
         "repo": "telescope.nvim",
-        "rev": "4367e05c06d19f28c514e1498bcd9410f4bc65b2",
+        "rev": "b3ff5f33201f474d58f5be96244869f189bbc091",
         "type": "github"
       },
       "original": {
