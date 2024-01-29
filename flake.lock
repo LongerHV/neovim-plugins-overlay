@@ -114,11 +114,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1706173671,
-        "narHash": "sha256-lciR7kQUK2FCAYuszyd7zyRRmTaXVeoZsCyK6QFpGdk=",
+        "lastModified": 1706367331,
+        "narHash": "sha256-AqgkGHRrI6h/8FWuVbnkfFmXr4Bqsr4fV23aISqj/xg=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "4fddc9be4eaf195d631333908f2a454b03628ee5",
+        "rev": "160b762eda6d139ac10ae081f8f78d640dd523eb",
         "type": "github"
       },
       "original": {
@@ -212,11 +212,11 @@
     "schemastore": {
       "flake": false,
       "locked": {
-        "lastModified": 1706310039,
-        "narHash": "sha256-o69BjJCiWSdVkXH8RMXPy6wyNALp06KFoKwSugOC1Yw=",
+        "lastModified": 1706475642,
+        "narHash": "sha256-qCaJrsQIkMqSDU4LPU1PdXnLWIpn7s5GheR4LbEazQA=",
         "owner": "b0o",
         "repo": "SchemaStore.nvim",
-        "rev": "2579aef95ffa497314ce871626a6145bc70da51d",
+        "rev": "11d661ae5e08f19b5256661a6491a66fa26cdcfc",
         "type": "github"
       },
       "original": {
