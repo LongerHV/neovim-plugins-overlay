@@ -57,6 +57,34 @@
       url = "github:b0o/SchemaStore.nvim";
       flake = false;
     };
+    nvim-cmp = {
+      url = "github:hrsh7th/nvim-cmp";
+      flake = false;
+    };
+    cmp-buffer = {
+      url = "github:hrsh7th/cmp-buffer";
+      flake = false;
+    };
+    cmp-nvim-lsp = {
+      url = "github:hrsh7th/cmp-nvim-lsp";
+      flake = false;
+    };
+    cmp-path = {
+      url = "github:hrsh7th/cmp-path";
+      flake = false;
+    };
+    lspkind-nvim = {
+      url = "github:onsails/lspkind-nvim";
+      flake = false;
+    };
+    copilot-lua = {
+      url = "github:zbirenbaum/copilot.lua";
+      flake = false;
+    };
+    copilot-cmp = {
+      url = "github:zbirenbaum/copilot-cmp";
+      flake = false;
+    };
   };
   outputs = { self, nixpkgs, ... }@inputs:
     let
