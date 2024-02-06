@@ -115,11 +115,11 @@
     "fidget": {
       "flake": false,
       "locked": {
-        "lastModified": 1707026266,
-        "narHash": "sha256-+XcgG1ZxT5iLGFE4lcjQUBJo93rZ+JF0x2pIUEwhZdg=",
+        "lastModified": 1707177535,
+        "narHash": "sha256-+nV2StNTt6PWD7UZG+7xJaem+c703QRtBT+iCgdPUhE=",
         "owner": "j-hui",
         "repo": "fidget.nvim",
-        "rev": "a3e1e79116ceb93d4c8c0ff432bf506b3213a24d",
+        "rev": "e88053b2fc8e9d159c8b400a0cd01857eea7cedd",
         "type": "github"
       },
       "original": {
@@ -210,11 +210,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1706925685,
-        "narHash": "sha256-hVInjWMmgH4yZgA4ZtbgJM1qEAel72SYhP5nOWX4UIM=",
+        "lastModified": 1707099344,
+        "narHash": "sha256-TtKolIs+Fm3rleTJ3/mCv391c42KILDnZq0f8PxhSc4=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "79a13f1437e149dc7be2d1290c74d378dad60814",
+        "rev": "0a254180b4cad6be45aa46dce896bdb8db5d2930",
         "type": "github"
       },
       "original": {
@@ -331,11 +331,11 @@
     "schemastore": {
       "flake": false,
       "locked": {
-        "lastModified": 1707084047,
-        "narHash": "sha256-aR5v77ZihueeEf6EUmqygzWlexB3BFD0ZsOFoKEVU/A=",
+        "lastModified": 1707156057,
+        "narHash": "sha256-TeYGeShm21aDFCQ8ufLIvWAIzdfzyqQ6fSKMng7GEhE=",
         "owner": "b0o",
         "repo": "SchemaStore.nvim",
-        "rev": "17de2914bad410d391f184bb14f2a7327777ca38",
+        "rev": "898a19cb54f310dda7cdeedf3d75aeeffcf19136",
         "type": "github"
       },
       "original": {
