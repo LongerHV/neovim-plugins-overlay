@@ -41,10 +41,6 @@
       url = "github:stevearc/dressing.nvim";
       flake = false;
     };
-    gen = {
-      url = "github:David-Kunz/gen.nvim";
-      flake = false;
-    };
     fidget = {
       url = "github:j-hui/fidget.nvim";
       flake = false;

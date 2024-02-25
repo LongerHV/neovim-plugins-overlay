@@ -128,22 +128,6 @@
         "type": "github"
       }
     },
-    "gen": {
-      "flake": false,
-      "locked": {
-        "lastModified": 1707889639,
-        "narHash": "sha256-pM+7hkLHBapdj6yOx2FKG5jYNfcf29rorDacLJu0hFw=",
-        "owner": "David-Kunz",
-        "repo": "gen.nvim",
-        "rev": "98043162168dcc0eb5c3c31b97439ff686dc8559",
-        "type": "github"
-      },
-      "original": {
-        "owner": "David-Kunz",
-        "repo": "gen.nvim",
-        "type": "github"
-      }
-    },
     "gitsigns": {
       "flake": false,
       "locked": {
@@ -312,7 +296,6 @@
         "devicons": "devicons",
         "dressing": "dressing",
         "fidget": "fidget",
-        "gen": "gen",
         "gitsigns": "gitsigns",
         "indent-blankline": "indent-blankline",
         "lspkind-nvim": "lspkind-nvim",
