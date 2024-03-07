@@ -41,10 +41,6 @@
       url = "github:stevearc/dressing.nvim";
       flake = false;
     };
-    fidget = {
-      url = "github:j-hui/fidget.nvim";
-      flake = false;
-    };
     oil = {
       url = "github:stevearc/oil.nvim";
       flake = false;
