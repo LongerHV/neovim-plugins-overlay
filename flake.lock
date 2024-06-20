@@ -99,11 +99,11 @@
     "dressing": {
       "flake": false,
       "locked": {
-        "lastModified": 1717295259,
-        "narHash": "sha256-UWw72vxTPcLmyIcqShJdD+qIHm/ZK74eYFhCw7GwUwk=",
+        "lastModified": 1718760361,
+        "narHash": "sha256-LlcE/1/IT6QW/o5gks80BFnrIdBd4GjW4M9o+84/j1c=",
         "owner": "stevearc",
         "repo": "dressing.nvim",
-        "rev": "e3714c8049b2243e792492c4149e4cc395c68eb9",
+        "rev": "6741f1062d3dc6e4755367a7e9b347b553623f04",
         "type": "github"
       },
       "original": {
@@ -115,11 +115,11 @@
     "gitsigns": {
       "flake": false,
       "locked": {
-        "lastModified": 1718727320,
-        "narHash": "sha256-Zw7/wK2nJkMs9QQumIae1nFRoDkAPU1MtYLWsy/tYnk=",
+        "lastModified": 1718805529,
+        "narHash": "sha256-5meW8tQIqxZr+YB91TTwx5g3BwyP63lfVk6HW9+KlDo=",
         "owner": "lewis6991",
         "repo": "gitsigns.nvim",
-        "rev": "def49e48c6329527e344d0c99a0d2cd9fdf6bb84",
+        "rev": "651d5ed082605f3ed96b0f037a768ca06ecf8fc3",
         "type": "github"
       },
       "original": {
@@ -297,11 +297,11 @@
     "schemastore": {
       "flake": false,
       "locked": {
-        "lastModified": 1718452861,
-        "narHash": "sha256-C/cqtmoKBP50u059n3jVgCW/dVH/ZwUrmz5DchhCZCg=",
+        "lastModified": 1718820038,
+        "narHash": "sha256-txOPBs7wmkipOICtnLD/2JZQbPg4s8t0224m08XYkLc=",
         "owner": "b0o",
         "repo": "SchemaStore.nvim",
-        "rev": "35f36c50b9f1e1e916d0e3f004cb48dffd2bf737",
+        "rev": "d733b0051a4a5ac72b863acc1ee0841bc4f7249e",
         "type": "github"
       },
       "original": {
