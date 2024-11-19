@@ -83,11 +83,11 @@
     "devicons": {
       "flake": false,
       "locked": {
-        "lastModified": 1728608318,
-        "narHash": "sha256-SUWEOp+QcfHjYaqqr4Zwvh0x91IAJXvrdMkQtuWMlGc=",
+        "lastModified": 1731899257,
+        "narHash": "sha256-ZwZiXcFeTeK+ZCFSCRv2EhWViYLWgF1Z6HUQLGz73+A=",
         "owner": "nvim-tree",
         "repo": "nvim-web-devicons",
-        "rev": "19d257cf889f79f4022163c3fbb5e08639077bd8",
+        "rev": "e87554285f581047b1bf236794b0eb812b444b87",
         "type": "github"
       },
       "original": {
@@ -163,11 +163,11 @@
     "mini": {
       "flake": false,
       "locked": {
-        "lastModified": 1731851494,
-        "narHash": "sha256-zb7/FNP9xXAzi/rtcRxTI8iao7XmxnFw/u7zDzgjgc0=",
+        "lastModified": 1731931854,
+        "narHash": "sha256-vGaft/XMGQ8Suc4Xhnc3OgO9j8z/k/QT7U6Go0awqVI=",
         "owner": "echasnovski",
         "repo": "mini.nvim",
-        "rev": "b07157c51e52a1b004ec7959f9618e9bc24686d3",
+        "rev": "6714e738555b1cfbef646a23af29aa113f91f4fe",
         "type": "github"
       },
       "original": {
@@ -178,11 +178,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1731763621,
-        "narHash": "sha256-ddcX4lQL0X05AYkrkV2LMFgGdRvgap7Ho8kgon3iWZk=",
+        "lastModified": 1731890469,
+        "narHash": "sha256-D1FNZ70NmQEwNxpSSdTXCSklBH1z2isPR84J6DQrJGs=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "c69a9bffbecde46b4b939465422ddc59493d3e4d",
+        "rev": "5083ec887760adfe12af64830a66807423a859a7",
         "type": "github"
       },
       "original": {
