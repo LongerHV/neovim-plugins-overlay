@@ -83,11 +83,11 @@
     "devicons": {
       "flake": false,
       "locked": {
-        "lastModified": 1734135113,
-        "narHash": "sha256-Llew78VZzedTwYMr/m6ahzxMGOKMUjCiT9Ir7bbe43Y=",
+        "lastModified": 1734188331,
+        "narHash": "sha256-1b/TT+6jmCi7fXUTxXyBD4XexOAuyDB6g4na0b04HZs=",
         "owner": "nvim-tree",
         "repo": "nvim-web-devicons",
-        "rev": "8a8e0668b8ad6124813a44a626afdf850dd24874",
+        "rev": "1736cb81bdc42e1ee206081a161bdb2af68fb7a1",
         "type": "github"
       },
       "original": {
@@ -209,11 +209,11 @@
     "nvim-lspconfig": {
       "flake": false,
       "locked": {
-        "lastModified": 1734134788,
-        "narHash": "sha256-fgUNnXMBwfFrQfYsN1wRYmjJFU1xXKsQX0no5BZXeic=",
+        "lastModified": 1734217102,
+        "narHash": "sha256-L9V9inCz3DPoxwIPlozM4FocXuj/P22+wNRbN08+MFA=",
         "owner": "neovim",
         "repo": "nvim-lspconfig",
-        "rev": "3cb6c05779459eb5fe9cddbb47675593594f0415",
+        "rev": "c502e4d288d1e29b46f6b78aa4b375a40c82e8b0",
         "type": "github"
       },
       "original": {
