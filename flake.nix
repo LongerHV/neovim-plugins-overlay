@@ -1,6 +1,7 @@
 {
   description = "Neovim plugin overlay";
   inputs = {
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-24.11";
     nvim-lspconfig = {
       url = "github:neovim/nvim-lspconfig";
       flake = false;
