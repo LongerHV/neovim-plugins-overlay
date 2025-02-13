@@ -99,11 +99,11 @@
     "dressing": {
       "flake": false,
       "locked": {
-        "lastModified": 1737788052,
-        "narHash": "sha256-DBFFuy60efB3qU5pY6Fov5sWqGe5EiuT6M/OB8lalwM=",
+        "lastModified": 1739381641,
+        "narHash": "sha256-dBz+/gZA6O6fJy/GSgM6ZHGAR3MTGt/W1olzzTYRlgM=",
         "owner": "stevearc",
         "repo": "dressing.nvim",
-        "rev": "56ef6a969a4990d938c5fed40c370f65e125fc97",
+        "rev": "2d7c2db2507fa3c4956142ee607431ddb2828639",
         "type": "github"
       },
       "original": {
@@ -243,11 +243,11 @@
     "oil": {
       "flake": false,
       "locked": {
-        "lastModified": 1737911936,
-        "narHash": "sha256-qrtBfIAJRBdxOBgAu7Q97SpCxdTX+jCmaAaZ5bXBohw=",
+        "lastModified": 1739336827,
+        "narHash": "sha256-FAaFwkq1ck+CfKJiCOqBWulMifJPIa+tCxKmcC+K2RE=",
         "owner": "stevearc",
         "repo": "oil.nvim",
-        "rev": "add50252b5e9147c0a09d36480d418c7e2737472",
+        "rev": "abbfbd0dbcaa78c3dcdada191ea23e50a41e5806",
         "type": "github"
       },
       "original": {
@@ -299,11 +299,11 @@
     "schemastore": {
       "flake": false,
       "locked": {
-        "lastModified": 1738962037,
-        "narHash": "sha256-i1OTztfTKgNuiPAM8ZvI8UI7X3x7bP183k0nghI2/vk=",
+        "lastModified": 1739329388,
+        "narHash": "sha256-DapFNX9JgWas3ofMM/BCXewv+SWv0v9d8TpiwCRd0BU=",
         "owner": "b0o",
         "repo": "SchemaStore.nvim",
-        "rev": "118e563101169e8c5096023bc45c460e4c4fb77c",
+        "rev": "97b08f928d355bd6d5dee595fdf667b5bfb6329f",
         "type": "github"
       },
       "original": {
