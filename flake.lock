@@ -67,11 +67,11 @@
     "copilot-lua": {
       "flake": false,
       "locked": {
-        "lastModified": 1742780086,
-        "narHash": "sha256-BKn8aGHKI2yjwwsuPf9P0sOJGfi5wvd1jFKZMiSQ+4Q=",
+        "lastModified": 1742946292,
+        "narHash": "sha256-mXXTMBHVXHu6N6/yGDYtuHx30JSjChat1LNccGHHYxs=",
         "owner": "zbirenbaum",
         "repo": "copilot.lua",
-        "rev": "d296017e588215df3f7b5796d1172f0d690fa13c",
+        "rev": "99654fe9ad6cb2500c66b178a03326f75c95f176",
         "type": "github"
       },
       "original": {
@@ -163,11 +163,11 @@
     "mini": {
       "flake": false,
       "locked": {
-        "lastModified": 1742819330,
-        "narHash": "sha256-O549t7s3hUK7rXw+2L/Wg43d/LAEpcyEziT2TCy8Px8=",
+        "lastModified": 1742897442,
+        "narHash": "sha256-JMqbOXowgs8OnDRnLXRbnDFbti44g3x/3N1iI2TSqL4=",
         "owner": "echasnovski",
         "repo": "mini.nvim",
-        "rev": "f048957e4e2ce8a7f44cc906450f5579ca9cfa20",
+        "rev": "3ad46cdb7a51281e0024416023b56cf5c7909ae7",
         "type": "github"
       },
       "original": {
@@ -211,11 +211,11 @@
     "nvim-lspconfig": {
       "flake": false,
       "locked": {
-        "lastModified": 1742551309,
-        "narHash": "sha256-T4Ptn6WM5e7/YI3uwmtvrHjJBF6J0zQ5FSPLVwcxHxM=",
+        "lastModified": 1742892325,
+        "narHash": "sha256-iK3x5wN6BEjGQm4ZAIlFQKiQahaQorpeXPyKUe45K0c=",
         "owner": "neovim",
         "repo": "nvim-lspconfig",
-        "rev": "fb733ac734249ccf293e5c8018981d4d8f59fa8f",
+        "rev": "200280dab91a7df2ca42fd2ab3cb4c5fab056666",
         "type": "github"
       },
       "original": {
