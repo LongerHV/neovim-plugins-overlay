@@ -78,6 +78,10 @@
       url = "github:zbirenbaum/copilot-cmp";
       flake = false;
     };
+    goose = {
+      url = "github:azorng/goose.nvim";
+      flake = false;
+    };
   };
   outputs = { self, nixpkgs, ... }@inputs:
     let
