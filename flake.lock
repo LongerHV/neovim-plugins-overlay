@@ -179,11 +179,11 @@
     "mini": {
       "flake": false,
       "locked": {
-        "lastModified": 1747990799,
-        "narHash": "sha256-ubnxPX/Z8AGeLYnT5NrBrc5NLTRd2cZBtcSuFp/GC7w=",
+        "lastModified": 1748092393,
+        "narHash": "sha256-4QqSe+elgVJgvhE/D4+pfPew+Xeud4ILunLyMJv5j2s=",
         "owner": "echasnovski",
         "repo": "mini.nvim",
-        "rev": "14ce72476995255fc5cb919da8067f65865e1225",
+        "rev": "6c6ac83b59e8918e42a3d395282b2d555c288a92",
         "type": "github"
       },
       "original": {
@@ -316,11 +316,11 @@
     "schemastore": {
       "flake": false,
       "locked": {
-        "lastModified": 1747998041,
-        "narHash": "sha256-vR1X5vYChHN0zQ4EDkYu8LJJL7OgHgBQSl9hb/mXY9c=",
+        "lastModified": 1748070046,
+        "narHash": "sha256-zbODt58p9Y91eG4LERs+5JqqilCHdjMelyICXnkY3LQ=",
         "owner": "b0o",
         "repo": "SchemaStore.nvim",
-        "rev": "5571cd3cbb3f4a1eed78c3e212bd5e7fba2e9e61",
+        "rev": "e923f07a01cebbe62f3ec11f4b7bf9b8fbfc2dcf",
         "type": "github"
       },
       "original": {
