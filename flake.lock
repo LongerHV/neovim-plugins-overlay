@@ -259,11 +259,11 @@
     "oil": {
       "flake": false,
       "locked": {
-        "lastModified": 1751327662,
-        "narHash": "sha256-9pq++oq6qXwEQ8vB3zgyCMavlawnxRQ+A71PKF8YTSo=",
+        "lastModified": 1751473108,
+        "narHash": "sha256-GhI6RwFg3Kep3CPGFCVnDPl8R6LMMz+kiSfIoR6nrfQ=",
         "owner": "stevearc",
         "repo": "oil.nvim",
-        "rev": "1498d2fccff75a1321e92e4aa03ff220f87cc27e",
+        "rev": "bbad9a76b2617ce1221d49619e4e4b659b3c61fc",
         "type": "github"
       },
       "original": {
