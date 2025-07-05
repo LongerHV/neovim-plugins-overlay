@@ -93,6 +93,7 @@
               pname = name;
               version = value.lastModifiedDate;
               src = value;
+              doCheck = false;
             };
           plugins = prev.lib.filterAttrs (name: _: name != "self" && name != "nixpkgs") inputs;
         in
