@@ -316,11 +316,11 @@
     "schemastore": {
       "flake": false,
       "locked": {
-        "lastModified": 1751522472,
-        "narHash": "sha256-pHBJKg6lW7mHCn6oq0VO/UASWEDSXLDjPPgtkJv53DI=",
+        "lastModified": 1751922039,
+        "narHash": "sha256-Zm9EHOORwVnp36GxUwowFJMYtPdSsi+cMu/KuQF8vQ4=",
         "owner": "b0o",
         "repo": "SchemaStore.nvim",
-        "rev": "1ec3867f463dfe4ca37001348953d810c716d4d9",
+        "rev": "f4f08359ba81ef1f5e56480fd11687a5a946d19b",
         "type": "github"
       },
       "original": {
