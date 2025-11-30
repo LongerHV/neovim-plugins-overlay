@@ -131,11 +131,11 @@
     "goose": {
       "flake": false,
       "locked": {
-        "lastModified": 1764063609,
-        "narHash": "sha256-OXJo1KUEUgB6LIB+t9lFCWzxN7jzqRbSDNqejT86fiI=",
+        "lastModified": 1764423936,
+        "narHash": "sha256-C51y0a11zV/yHHo3mo9SyZunbcPNXxrzT3xxo0GnWms=",
         "owner": "azorng",
         "repo": "goose.nvim",
-        "rev": "bd3900c9e411f2ab100eb67a7e55dde87b91343d",
+        "rev": "bdf71e5a87ec0551c2256f2f61597041be28e81d",
         "type": "github"
       },
       "original": {
@@ -316,11 +316,11 @@
     "schemastore": {
       "flake": false,
       "locked": {
-        "lastModified": 1763748041,
-        "narHash": "sha256-4KKj1zp+5Z2zbC31hpvw73BIuf4dW7rimepGOggmUp4=",
+        "lastModified": 1764450035,
+        "narHash": "sha256-47SbqxiE9fs2Cn8q7QeMa/c+82z6WDiwGv/4QGYF0kI=",
         "owner": "b0o",
         "repo": "SchemaStore.nvim",
-        "rev": "aa25399c48236b77af71d4b64cdf157d2ba4e990",
+        "rev": "5f2299987a1937612c910f00db39156bab6a6b35",
         "type": "github"
       },
       "original": {
@@ -332,11 +332,11 @@
     "telescope": {
       "flake": false,
       "locked": {
-        "lastModified": 1764260294,
-        "narHash": "sha256-RrA84O25MlXvnATjgzpIehoYXH/h11vG0Zv8KR5uyIM=",
+        "lastModified": 1764418954,
+        "narHash": "sha256-e6XSJRv4KB0z+nzGWmlV/YZNwWsyrrpQTloePRKWmw4=",
         "owner": "nvim-telescope",
         "repo": "telescope.nvim",
-        "rev": "f0caedf064aa8c926325d7fe64c141d29b8e7853",
+        "rev": "e69b434b968a33815e2f02a5c7bd7b8dd4c7d4b2",
         "type": "github"
       },
       "original": {
