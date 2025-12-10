@@ -131,11 +131,11 @@
     "goose": {
       "flake": false,
       "locked": {
-        "lastModified": 1764423936,
-        "narHash": "sha256-C51y0a11zV/yHHo3mo9SyZunbcPNXxrzT3xxo0GnWms=",
+        "lastModified": 1765323131,
+        "narHash": "sha256-HJ5gTFpZh1SiKmNG+MgW/ejFXTKa4bJS1kdBD12FuDc=",
         "owner": "azorng",
         "repo": "goose.nvim",
-        "rev": "bdf71e5a87ec0551c2256f2f61597041be28e81d",
+        "rev": "afefbb7cd50828e0c98687f90db4605cd828bbd8",
         "type": "github"
       },
       "original": {
