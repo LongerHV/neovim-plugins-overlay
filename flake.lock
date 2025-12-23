@@ -131,11 +131,11 @@
     "goose": {
       "flake": false,
       "locked": {
-        "lastModified": 1766352357,
-        "narHash": "sha256-RkTKUYhqttQ/lzu3eBKZMA/S7Eyd3RrmpOl2TVN35j8=",
+        "lastModified": 1766392030,
+        "narHash": "sha256-QPhPQbrJjXXE3UFtPTGKugavBVQKCLbi2PoQc1HwSds=",
         "owner": "azorng",
         "repo": "goose.nvim",
-        "rev": "751d00289a2309694d17a348657d0b132d611bfa",
+        "rev": "23b1ee028e688ca09500aaf9e80b735ad6ec0de6",
         "type": "github"
       },
       "original": {
@@ -227,11 +227,11 @@
     "nvim-lspconfig": {
       "flake": false,
       "locked": {
-        "lastModified": 1766274510,
-        "narHash": "sha256-BEfBcPf/708H/j0A/1olgy290NlVJt9wL+MUR6jr7ss=",
+        "lastModified": 1766443238,
+        "narHash": "sha256-P95gPOwJ+rRofLb8iV5UOnh26to1I3sFrWGlGxHyz1M=",
         "owner": "neovim",
         "repo": "nvim-lspconfig",
-        "rev": "d20d83b3f24f5884da73a9fc92fdc47e778b8d0d",
+        "rev": "b34c08e0ea22bac67798f00238318fd16bd99b7c",
         "type": "github"
       },
       "original": {
