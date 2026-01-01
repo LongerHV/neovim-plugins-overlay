@@ -259,11 +259,11 @@
     "oil": {
       "flake": false,
       "locked": {
-        "lastModified": 1767040040,
-        "narHash": "sha256-2M2njdsx+yrZrLqwL3i5kT8OtJWa2NmyjBzwvP2TJeQ=",
+        "lastModified": 1767214239,
+        "narHash": "sha256-fQ8oZlVmNhJDHKa4xRFySrK5+4kQ6qstFOw3DQEIgdQ=",
         "owner": "stevearc",
         "repo": "oil.nvim",
-        "rev": "963c8d2c5538c4a896a31f396b8a5a2683e254dc",
+        "rev": "78ed0cf7d9a64280d621960af4be7872aa650417",
         "type": "github"
       },
       "original": {
@@ -316,11 +316,11 @@
     "schemastore": {
       "flake": false,
       "locked": {
-        "lastModified": 1767058137,
-        "narHash": "sha256-M/P5lzogRyS++WonInk5atp/jdE9ilL6z2X4g4jqOtE=",
+        "lastModified": 1767225811,
+        "narHash": "sha256-sTCKto3J/nneQr3JHJDJ1AMjhJhp2XUqkJqpECBHjj8=",
         "owner": "b0o",
         "repo": "SchemaStore.nvim",
-        "rev": "1bc1227ee1f5ad02f6796701539e9aaf6c5e77e6",
+        "rev": "c76a8ec99cda6873084e63962b008745eb6534dc",
         "type": "github"
       },
       "original": {
@@ -332,11 +332,11 @@
     "telescope": {
       "flake": false,
       "locked": {
-        "lastModified": 1767097926,
-        "narHash": "sha256-XLs28MbJXt9y1RqG5FdMOviNAC/++0KV8jjBX7mXMrY=",
+        "lastModified": 1767182732,
+        "narHash": "sha256-QwhFgTRh4h+8QjZMkXkoxgr7bv27HCp2TG2HAjI8VVg=",
         "owner": "nvim-telescope",
         "repo": "telescope.nvim",
-        "rev": "3f8109cd21abe9fdb274a09da1e3c176673254b4",
+        "rev": "3333a52ff548ba0a68af6d8da1e54f9cd96e9179",
         "type": "github"
       },
       "original": {
