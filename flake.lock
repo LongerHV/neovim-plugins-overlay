@@ -259,11 +259,11 @@
     "oil": {
       "flake": false,
       "locked": {
-        "lastModified": 1768246003,
-        "narHash": "sha256-036i1DtU2Z0gb0Lv+zDLTZ3s00k9FMcM51IwcXWj6xI=",
+        "lastModified": 1768368496,
+        "narHash": "sha256-ULtIh+rY2m7OHC2U4bOBN/OcP5Uh0YgGa/Kgnke95Q0=",
         "owner": "stevearc",
         "repo": "oil.nvim",
-        "rev": "fbbb2a98721da86f46b06994fd3b4833b04c6e9b",
+        "rev": "6b59a6cf623fa2245c7454ddb458df5bdb6615d3",
         "type": "github"
       },
       "original": {
@@ -316,11 +316,11 @@
     "schemastore": {
       "flake": false,
       "locked": {
-        "lastModified": 1768271665,
-        "narHash": "sha256-6KeO/v4c3uYcM4FWSPbUIDKhxTfgnHVahMp1l2oJF7U=",
+        "lastModified": 1768413655,
+        "narHash": "sha256-IDfZ17epQoug4wonyMvemc7IMEpJe2EVxlHxRi4n0QU=",
         "owner": "b0o",
         "repo": "SchemaStore.nvim",
-        "rev": "20ee0cad0b25e4a028d355c51b06d41eecb90d91",
+        "rev": "2a8afcddb67a14dc80001f074f1eecedac2f27a7",
         "type": "github"
       },
       "original": {
