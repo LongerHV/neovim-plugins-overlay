@@ -163,11 +163,11 @@
     "lspkind-nvim": {
       "flake": false,
       "locked": {
-        "lastModified": 1769107801,
-        "narHash": "sha256-/unY/MaGHC76x5SF0rg6dLc0HOB35Y4vHimquaAWk1M=",
+        "lastModified": 1769689909,
+        "narHash": "sha256-aIopYLm/x1CgCKpcsu9pxpqL0SXXhHDPTM8DKUwGeRw=",
         "owner": "onsails",
         "repo": "lspkind-nvim",
-        "rev": "dbac5149fb5fb1b642266ff268b1e0f4ebac9293",
+        "rev": "c7274c48137396526b59d86232eabcdc7fed8a32",
         "type": "github"
       },
       "original": {
@@ -227,11 +227,11 @@
     "nvim-lspconfig": {
       "flake": false,
       "locked": {
-        "lastModified": 1769596808,
-        "narHash": "sha256-HboWGQgIWaPrBhIijFEDpJxEWmmbPK5krLlE5h7mxDw=",
+        "lastModified": 1769722634,
+        "narHash": "sha256-zpBf8EEax+3Cy49ZjO0//pvtGJjnGFIu1AHyl1tL4d4=",
         "owner": "neovim",
         "repo": "nvim-lspconfig",
-        "rev": "5fef3b4a5f1057553b78d048322782c3a9ae69c6",
+        "rev": "79c9a15be5731bc8694840a8fb0c9141c20a80c0",
         "type": "github"
       },
       "original": {
