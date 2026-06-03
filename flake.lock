@@ -179,11 +179,11 @@
     "mini": {
       "flake": false,
       "locked": {
-        "lastModified": 1780312105,
-        "narHash": "sha256-k7rrKws2yfnjr3u7YsWzAj05FrOgTYJQZxQGx9gV4Sk=",
+        "lastModified": 1780405177,
+        "narHash": "sha256-cXPF96OMqqQ+q6AyMeouc9GLUU/PL35KvZphy/Ys/s4=",
         "owner": "echasnovski",
         "repo": "mini.nvim",
-        "rev": "232ceeb14f7f7e849056309b85cb2fed712db46f",
+        "rev": "11afe78a10570fe1d0c7ed0b6fc2b5b19098cb45",
         "type": "github"
       },
       "original": {
@@ -227,11 +227,11 @@
     "nvim-lspconfig": {
       "flake": false,
       "locked": {
-        "lastModified": 1779988647,
-        "narHash": "sha256-KnZQMIp9qzZitsrwcx9Nty3V5KkszSbWJog/m5opMFg=",
+        "lastModified": 1780405054,
+        "narHash": "sha256-irSuqHKnAm0ReA9R9qJYtoWPp8XdE4bcWovVn7jkGPo=",
         "owner": "neovim",
         "repo": "nvim-lspconfig",
-        "rev": "9573948c38bfabeec353ae7dd7d3ffec4c506a6b",
+        "rev": "07dff35e7c95288861200b788ef32d6103f107f0",
         "type": "github"
       },
       "original": {
@@ -259,11 +259,11 @@
     "oil": {
       "flake": false,
       "locked": {
-        "lastModified": 1779649347,
-        "narHash": "sha256-BFnApfjW3HFJdfWjsumDg9ZJ6u6fAq7zB1jW8a3uaQE=",
+        "lastModified": 1780420891,
+        "narHash": "sha256-Q8t2GYOEBWcR19Ht2ZCx5FEusscY76LhXVae4ZW/3j0=",
         "owner": "stevearc",
         "repo": "oil.nvim",
-        "rev": "b91ee5a77a6a9605d9c1aaf4fda74b66082c8297",
+        "rev": "b73018b75affd13fa38e2fc94ef753b465f770d7",
         "type": "github"
       },
       "original": {
