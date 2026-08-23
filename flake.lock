@@ -131,11 +131,11 @@
     "goose": {
       "flake": false,
       "locked": {
-        "lastModified": 1776315708,
-        "narHash": "sha256-PBQz+YBN3qAOOFtncjEa7IHOfJCI5La8cfBdrJscWlw=",
+        "lastModified": 1787415242,
+        "narHash": "sha256-JTYRJZjmBjNwOd8X2Duc0Bc017ZVSCnl8wlg018hQ4E=",
         "owner": "azorng",
         "repo": "goose.nvim",
-        "rev": "c16133a0c4e3fb2b733887ebdd6d0dff67af31e1",
+        "rev": "a64003bd1442a716cf19357901763ecbb1f22c32",
         "type": "github"
       },
       "original": {
@@ -179,11 +179,11 @@
     "mini": {
       "flake": false,
       "locked": {
-        "lastModified": 1786786208,
-        "narHash": "sha256-ek5M6ovUFNZcUFkOstSv7Dc56fKDAbXK4xZ4zEay6IU=",
+        "lastModified": 1787410286,
+        "narHash": "sha256-UkVGCvFzKbJ0U1jtQsgSpYL8mOYvN2ULx8l/f2ikwpI=",
         "owner": "echasnovski",
         "repo": "mini.nvim",
-        "rev": "e58ad4b0c9e9376096b9704f98fc00d4c9448870",
+        "rev": "8d86a057fa14681cf7cab74ea7cba894a0abe14f",
         "type": "github"
       },
       "original": {
