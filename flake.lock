@@ -179,11 +179,11 @@
     "mini": {
       "flake": false,
       "locked": {
-        "lastModified": 1792152871,
-        "narHash": "sha256-mSGhMxj8FPBNuu3p33K5pXp3U7erB+BgnXw/UxOHiS4=",
+        "lastModified": 1792334836,
+        "narHash": "sha256-jGezPF+6D1n/6Idlmdo+xYTWRTxzPpR3XPJYANZxZ+s=",
         "owner": "echasnovski",
         "repo": "mini.nvim",
-        "rev": "295af26358628c8ba8f007ff6a7e0aec2f642a31",
+        "rev": "66b9e643b6dabe15079be7197ee4b4d59ff98c61",
         "type": "github"
       },
       "original": {
