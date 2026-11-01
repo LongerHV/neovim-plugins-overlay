@@ -67,11 +67,11 @@
     "copilot-lua": {
       "flake": false,
       "locked": {
-        "lastModified": 1793044807,
-        "narHash": "sha256-rTLTToIoleYlkHiaWBG7gvxrFQ5fqVQsMHjDpc31Liw=",
+        "lastModified": 1793471693,
+        "narHash": "sha256-28WNu5dNCMHRcYdD56RkNcsB0UQUO+nEyUJcInqbl6o=",
         "owner": "zbirenbaum",
         "repo": "copilot.lua",
-        "rev": "82607bbb8528222a9a28bfcab0aceb3a7fed7e85",
+        "rev": "20ffcd5f1c902ad4efddfbe694f4261607fa6dcb",
         "type": "github"
       },
       "original": {
@@ -227,11 +227,11 @@
     "nvim-lspconfig": {
       "flake": false,
       "locked": {
-        "lastModified": 1793369446,
-        "narHash": "sha256-/v1ZlUwFFXaZf6ZqgyVMS+hvsTinRS5I7X7ZqsT5hwg=",
+        "lastModified": 1793446170,
+        "narHash": "sha256-/zLhjDnGgHSdRm+f4rKNGIowSfsbj2ZRHOtNVe3PdZk=",
         "owner": "neovim",
         "repo": "nvim-lspconfig",
-        "rev": "460bb34e7be114f1fda7815781696bc701e60f83",
+        "rev": "d8d2fda7aae57030452ce8cd6e770b1eb704514e",
         "type": "github"
       },
       "original": {
